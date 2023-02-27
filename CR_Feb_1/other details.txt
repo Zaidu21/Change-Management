@@ -1,0 +1,5 @@
+testing evidences
+email approvals
+
+
+Like this folder needs to be created for each change and needs to be updated in SVN, so that for each doucment link will get created.
